@@ -1,0 +1,29 @@
+name: homework_01_01
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - res/ro.png
+    - res/usa.png
+    - res/eur.png
+    - res/pln.png
+    - res/uk.png
