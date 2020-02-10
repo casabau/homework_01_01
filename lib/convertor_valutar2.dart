@@ -41,7 +41,7 @@ class _MyAppState extends State<MyApp> {
                       'Romanian Leu',
                     ),
                     trailing: Container(
-                      width: 100.0,
+                      width: 110.0,
                       height: 64.0,
                       color: Colors.white12,
                       margin: EdgeInsets.all(1.0),
@@ -92,7 +92,7 @@ class _MyAppState extends State<MyApp> {
                       'USD',
                     ),
                     trailing: Container(
-                      width: 100.0,
+                      width: 110.0,
                       height: 64.0,
                       color: Colors.white12,
                       margin: EdgeInsets.all(1.0),
@@ -140,7 +140,7 @@ class _MyAppState extends State<MyApp> {
                       'EUR',
                     ),
                     trailing: Container(
-                      width: 100.0,
+                      width: 110.0,
                       height: 64.0,
                       color: Colors.white12,
                       margin: EdgeInsets.all(1.0),
@@ -188,7 +188,7 @@ class _MyAppState extends State<MyApp> {
                       'BGP',
                     ),
                     trailing: Container(
-                      width: 100.0,
+                      width: 110.0,
                       height: 64.0,
                       color: Colors.white12,
                       margin: EdgeInsets.all(1.0),
@@ -236,7 +236,7 @@ class _MyAppState extends State<MyApp> {
                       'PLN',
                     ),
                     trailing: Container(
-                      width: 100.0,
+                      width: 110.0,
                       height: 64.0,
                       color: Colors.white12,
                       margin: EdgeInsets.all(1.0),
